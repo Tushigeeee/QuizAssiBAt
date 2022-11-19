@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;       
+}
+/* body style  */
+body {
+  margin: 0 auto;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: rgb(175, 165, 165);
+  background-size: cover;
+}
+/* header  */
+header {
+  padding: 20px;
+  position: relative;
+}
+/* main card style  */
+div.card {
+  padding: 70px;
+  position: relative;
+  color: rgb(240, 176, 40);
+}
+
+ul {
+  margin: 100px;
+}
+/* button style */
+button {
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(7, 6, 6);
+}
+/* list style  */
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+  margin: 10px;
+  font-size: 23px;
+  background-color: rgb(53, 75, 218);
+}
+
+
+#indicator {
+  font-style: italic;
+  font-size: 60px;
+}
+ /* high score section style  */
+.highscore-element {
+  font-size: 18px;
+  text-align: left;
+  color: rgb(231, 8, 8);
+  padding: 10px;
+  margin: 10px;
+  padding-left: 30px;
+  background-color: rebeccapurple;
+}
